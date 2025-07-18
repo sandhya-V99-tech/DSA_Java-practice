@@ -1,10 +1,10 @@
-# 🧮 Array Problems – Data Structures & Algorithms
+Array Problems – Data Structures & Algorithms
 
 This repository contains a collection of array-based problems solved using Java. These problems help in understanding the basics and advanced concepts of arrays, one of the most important data structures in programming and interviews.
 
 ---
 
-## ✅ Topics Covered
+Topics Covered
 
 - Array basics and syntax  
 - Reversing an array  
@@ -15,11 +15,11 @@ This repository contains a collection of array-based problems solved using Java.
 - Subarray problems (Kadane’s Algorithm)  
 - Prefix sum and sliding window techniques  
 
----
 
-## 📁 Folder Structure
 
-```
+ Folder Structure
+
+
 array/
 ├── ReverseArray.java
 ├── PalindromeCheck.java
@@ -27,11 +27,11 @@ array/
 ├── RotateArray.java
 ├── KadaneAlgorithm.java
 └── ...
-```
+
 
 ---
 
-## 🚀 How to Run
+ How to Run
 
 1. Install Java (JDK 8 or above)
 2. Compile and run any file using:
@@ -42,7 +42,7 @@ array/
 
 ---
 
-## 💡 Sample Problem – Reverse Array
+ Sample Problem – Reverse Array
 
 ```java
 public class ReverseArray {
@@ -65,7 +65,7 @@ public class ReverseArray {
 
 ---
 
-## 📚 Resources
+Resources
 
 - [GeeksforGeeks - Array](https://www.geeksforgeeks.org/array-data-structure/)
 - [LeetCode Array Problems](https://leetcode.com/tag/array/)
@@ -73,10 +73,10 @@ public class ReverseArray {
 
 ---
 
-## 🧑‍💻 Author
+ Author
 
 **Sandhya V**  
-CSE Student | DSA Learner | Future Developer 💻  
+CSE Student | DSA Learner | Future Developer 
 *Feel free to connect or contribute!*
 
 ---
